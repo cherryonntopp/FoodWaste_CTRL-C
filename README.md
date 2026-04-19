@@ -1,5 +1,5 @@
 # Beyond the Bin
-### CTRL+C — UCSD DataHacks 2026
+### CTRL+C - UCSD DataHacks 2026
 **Track:** Analytics | **Theme:** Environment & Climate  
 **Team:** Justin Sipraseuth, Justin Santiago, Shana Ibatuan
 
