@@ -23,8 +23,8 @@ meaningfully shifted where waste ends up.
 
 Our recommendation: stop looking at national averages and dig into 
 state-level outliers. States that successfully reduced landfill waste 
-or improved recycling rates hold the blueprint for what policies and 
-infrastructure actually work.
+or improved recycling rates can set the standard for what policies and 
+ actually work.
 
 ---
 
