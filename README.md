@@ -32,9 +32,9 @@ or improved recycling rates can set the standard for what policies and
 
 | File | Description |
 |---|---|
-| `power2_impexp.csv` | Core waste dataset — tracks waste by state, county, year, and type (disposal, recycling, composting, etc.) from 1991–2021 across 36 US states |
+| `power2_impexp.csv` | Core waste dataset; tracks waste by state, county, year, and type (disposal, recycling, composting, etc.) from 1991–2021 across 36 US states |
 | `population.csv` | County-level US population data from 1991–2019 used to calculate per capita metrics |
-| `DataHacks 2026 FINAL ANALYSIS - Type and p...` | Main analysis notebook — full code for data cleaning, merging, per capita calculation, and composition analysis |
+| `DataHacks 2026 FINAL ANALYSIS - Type and p...` | Sheets for data cleaning, merging, per capita calculation, and composition analysis |
 | `Charts/` | Folder containing all generated charts used in the presentation |
 | `README.md` | This file |
 
